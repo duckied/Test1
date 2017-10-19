@@ -10,7 +10,7 @@ namespace TestProj
     {
         static void Main(string[] args)
         {
-            // The test
+            // The test 2
         }
     }
 }
